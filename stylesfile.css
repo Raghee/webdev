@@ -2,12 +2,27 @@ h6
 {
 color:blue;
 }
-h2
+h1
 {
-font-size:2.5em;
-text-align:left;
-}
 
+line-height: 30px;
+font-weight: bold;
+font-family:Lucida Console;
+font-size: 138px;
+text-align:center;
+margin-right:15px;
+
+}
+p
+{
+color:#999;
+font-weight: 500;
+line-height: 24px;
+font-size: 18px;
+margin-top: 10px;
+margin-bottom: 10px;
+font-family: inherit;
+}
 #first
 {
 background-color:#F0F8FF;
