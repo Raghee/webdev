@@ -1,27 +1,22 @@
-h6
-{
-color:blue;
-}
+
 h1
 {
 
-line-height: 30px;
-font-weight: bold;
-font-family:Lucida Console;
-font-size: 138px;
-text-align:center;
-margin-right:15px;
+   
+    margin-left: 35px;
+    margin-bottom:2em;
 
 }
 p
 {
 color:#999;
-font-weight: 500;
-line-height: 24px;
-font-size: 18px;
-margin-top: 10px;
+margin-top:2em;
 margin-bottom: 10px;
 font-family: inherit;
+margin-left:34px;
+font-size: 21px;
+margin-left: 55px;
+
 }
 #first
 {
@@ -64,3 +59,10 @@ background-color:#FFFACD;
 {
 text-align:center;
 }
+.rTableRow      
+ { display: table-row;
+ }
+.rTableCell, .rTableHead 
+ { display: table-cell;
+text-align:center;
+ }
